@@ -2,3 +2,5 @@
 
 Jobber hovedsaklig med Rockwell PLC programmering.
 Har også jobbet en del med annen programering som SQL, VBA, Python...
+
+![Marcus Nordahl's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusnordahl&show_icons=true&theme=transparent)
