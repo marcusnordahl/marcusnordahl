@@ -5,7 +5,7 @@ Har også jobbet en del med annen programering som SQL, VBA, Python...
 
 ![Marcus Nordahl's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusnordahl&show_icons=true&theme=transparent)
 
-Link stat [Link]([https://pages.github.com/](https://github.com/anuraghazra/github-readme-stats)).
+Link stat [Link](https://github.com/anuraghazra/github-readme-stats).
 
 
 <!-- Henter ut hvilke program man har jobbet med, men funker ikke hos meg. Sikkert noe fiel.  -->
